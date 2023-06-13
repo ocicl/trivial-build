@@ -1,0 +1,10 @@
+* trivial-build
+
+A tiny library to compile a system into an executable
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ceramic/trivial-build.git   |
+| commit  | 25b3336  |
+| systems | trivial-build |
+|---------+-------------------------------------------|
+
